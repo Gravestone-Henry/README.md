@@ -46,7 +46,6 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/gravestone/gravestone/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
