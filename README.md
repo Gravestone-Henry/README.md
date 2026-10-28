@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">...</h2>
+<h2 data-importer="text" align="left">Gravestone Henry</h2>
 
 ###
 
@@ -49,8 +49,3 @@
 
 ###
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://count.getloli.com/@:gravestone?theme=3d-num&padding=10&offset=0&scale=1&align=top&pixelated=1&darkmode=auto" />
-</div>
-
-###
