@@ -34,12 +34,29 @@
 ###
 
 <div data-importer="socials" align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=111111&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  logo" />
+  <a href="https://github.com/Gravestone-Henry" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=111111&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
+  </a>
+  <img width="12" />
+  <a href="mailto:202603246851@alunos.estacio.br">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=111111&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email logo" />
+  </a>
 </div>
 
 ###
 
 <h2 data-importer="text" align="left">we're bound to decay.</h2>
+
+###
+
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/Gravestone-Henry/Gravestone-Henry/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://count.getloli.com/@:Gravestone-Henry?theme=3d-num&padding=10&offset=0&scale=1&align=top&pixelated=1&darkmode=auto" />
+</div>
 
 ###
